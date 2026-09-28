@@ -1,0 +1,16 @@
+.git
+.gitignore
+.dockerignore
+.venv
+__pycache__
+*.py[cod]
+.pytest_cache
+.ruff_cache
+.coverage
+htmlcov
+.idea
+.vscode
+benchmarks
+example_payloads
+tests
+*.md
